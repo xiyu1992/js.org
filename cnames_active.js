@@ -1231,6 +1231,7 @@ var cnames_active = {
   "nanoexpress": "hosting.gitbook.com",
   "naseem": "naseemali925.github.io/about-me",
   "nasix": "nasixjs.netlify.com", // noCF
+  "fxy": "xiyu1992.github.io",
   "nastya-piu": "nastya-piu.github.io",
   "nativemodels": "prefinem.github.io/nativemodels",
   "naughtychecker": "gautamkrishnar.github.io/naughtychecker.js",
